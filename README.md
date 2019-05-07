@@ -3,7 +3,7 @@
 Project was purely created to test run setting up Webpack as task runner  
 Also learned about ES Lint  
 ## Screenshots  
-![Screenshot of blue page with title of the word Test]()  
+![Screenshot of blue page with title of the word Test](https://raw.githubusercontent.com/sarahjulesthorne/webpack-intro/master/src/assets/images/screenshot.png "Screenshot of blue page with title of the word Test")  
 ## Installation Instructions  
 * Clone down this repo  
 * At the root of the project, run `npm install`  
